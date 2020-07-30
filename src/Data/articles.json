@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Distributed Multi-Language Microfrontends",
+    "href": "",
+    "description": "Coming Soon..."
+  },
+  {
+    "title": "ZeroSlope Microservice Architecture",
+    "href": "",
+    "description": "Coming Soon..."
+  },
+  {
+    "title": "Microservice Architecture & Design",
+    "href": "https://medium.com/@cfryerdev/microservice-architecture-design-2ac7eaae532",
+    "description": "Microservice architecture in its simplest definition, is the act of developing software while breaking out logical domains into independent services. In the last 6 years, I have heard the microservice methodology grow in incredible popularity. Everybody is talking about microservices!"
+  },
+  {
+    "title": "Dependency Injection — Composition Root",
+    "href": "https://medium.com/@cfryerdev/dependency-injection-composition-root-418a1bb19130",
+    "description": "The composition root pattern is (in my opinion) the next evolutionary step after learning dependency injection. Once you fully understand dependency injection, you are able to introduce the next logical steps; predictability and structure around how dependencies are managed."
+  },
+  {
+    "title": "Dependency Injection — General",
+    "href": "https://medium.com/@cfryerdev/dependency-injection-general-54898b6f18f5",
+    "description": "Dependency injection is a form of Inversion of Control which focuses around supplying dependencies to a class explicitly as opposed to constructing them, or requesting them."
+  }
+]

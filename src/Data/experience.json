@@ -1,0 +1,151 @@
+[
+  {
+    "title": "Solution Principal",
+    "duration": "July 2020 - Present",
+    "company": "Slalom Build",
+    "description": "SOMETHING GOES HERE",
+    "roles": ["Denver Modern Web Lead"],
+    "awards": [],
+    "achievements": [],
+    "technologies": []
+  },
+  {
+    "title": "Solution Architect",
+    "duration": "Mar 2018 - July 2020",
+    "company": "Slalom Build",
+    "description": "SOMETHING GOES HERE",
+    "roles": ["Denver Modern Web Lead", "Denver Intern Tech Lead"],
+    "awards": [
+      "2019 Q2 Slalom Team Mogul Winner",
+      "2018 Q3 Slalom Mogul Winner",
+      "2018 Summer Hackathon Winner"
+    ],
+    "achievements": [],
+    "technologies": [
+      "AWS",
+      "Azure",
+      ".Net Core",
+      "Serverless",
+      "RESTful APIs",
+      "Microservices",
+      "Angular",
+      "React",
+      "Node",
+      "Springboot",
+      "SqlServer",
+      "HTML/SASS"
+    ]
+  },
+  {
+    "title": "Lead Software Engineer",
+    "duration": "Jul 2016 - Mar 2018",
+    "company": "Convercent",
+    "description": "I joined a small startup called Convercent to help break down their aging monolith platform into the next generation of microservices. After about a year, i was given my own team to work purely on skunkworks projects. This was extremely fun as I was free to apply technology to solve problems within the company or pave way for new revenue.",
+    "roles": [],
+    "awards": [],
+    "achievements": [
+      "Built a two-way SMS Conversation API",
+      "Perfected my microservice architecture leveraging composition root"
+    ],
+    "technologies": [
+      "Azure",
+      ".Net Core",
+      "Microservices",
+      "Angular",
+      "SqlServer",
+      "MongoDB",
+      "HTML/SASS",
+      "RESTful APIs"
+    ]
+  },
+  {
+    "title": "Senior Software Engineer",
+    "duration": "Nov 2015 - Jul 2016",
+    "company": "Ria Financial",
+    "description": "SOMETHING GOES HERE",
+    "roles": [],
+    "awards": [],
+    "achievements": [
+      "Designed, Developed, and Deployed my own .net core microservice architecture and perfected my composition root pattern."
+    ],
+    "technologies": [
+      ".Net Core",
+      "Microservices",
+      "React",
+      "HTML/SASS",
+      "RESTful APIs"
+    ]
+  },
+  {
+    "title": "Senior Software Engineer",
+    "duration": "Jun 2014 - Nov 2015",
+    "company": "Chipotle Mexican Grill",
+    "description": "SOMETHING GOES HERE",
+    "roles": [],
+    "awards": [],
+    "achievements": [
+      "Google Maps Search API: RESTful service (webapi) for using Google Maps Geolocation",
+      "Generic Repository: Generic Repository that can use MongoDB or Entity Framework",
+      "Environment Monitor: Monitors environments as services are deployed to ensure stability "
+    ],
+    "technologies": []
+  },
+  {
+    "title": "Senior Software Engineer",
+    "duration": "",
+    "company": "ProLink Solutions",
+    "description": "SOMETHING GOES HERE",
+    "roles": [],
+    "awards": [],
+    "achievements": [],
+    "technologies": []
+  },
+  {
+    "title": "Senior Software Engineer",
+    "duration": "",
+    "company": "Fetter Logic, LLC",
+    "description": "SOMETHING GOES HERE",
+    "roles": [],
+    "awards": [],
+    "achievements": [],
+    "technologies": []
+  },
+  {
+    "title": "Senior Software Engineer",
+    "duration": "",
+    "company": "BlackBox Logic, LLC",
+    "description": "SOMETHING GOES HERE",
+    "roles": [],
+    "awards": [],
+    "achievements": [],
+    "technologies": []
+  },
+  {
+    "title": "Software Engineer",
+    "duration": "",
+    "company": "ProLink Solutions",
+    "description": "A little startup out of Greenwood Village was really where I found my first mentor, Adam Berhle. I learned a lot here as a young dot net junior engineer with only a couple years under my belt building internal tools. This is where I would build my first product and production ready application. Numerous here as it turns out. This was my first taste of a company becoming my family. ",
+    "roles": [],
+    "awards": [],
+    "achievements": [],
+    "technologies": [
+      "MVC",
+      "C# .Net",
+      "Sql Server",
+      "AngularJS",
+      "WCF",
+      "REST",
+      "Code Generation"
+    ]
+  },
+  {
+    "title": "Software Engineer",
+    "duration": "",
+    "company": "Ticketmaster Entertainment",
+    "description": "This is where I got my start. I applied online to a help desk position where I worked for 2 years before transitioning into a developer role. As a developer, I wrote tools to help the helpdesk become faster, more accurate, and more predictable. I got a lot of great experience and I am quite grateful for this job.",
+    "roles": [],
+    "awards": [],
+    "achievements": [],
+    "technologies": ["MVC", "C# .Net", "Sql Server"]
+  }
+]

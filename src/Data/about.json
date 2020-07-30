@@ -1,0 +1,30 @@
+{
+  "name": "Chris Fryer",
+  "title": "Solution Architect & Leader",
+  "email": "cfryerdev@gmail.com",
+  "location": "Denver, CO",
+  "links": [
+    {
+      "name": "linkedin.com/in/cfryerdev",
+      "href": "https://www.linkedin.com/in/cfryerdev/",
+      "icon": "fab fa-linkedin-in"
+    },
+    {
+      "name": "github.com/cfryerdev",
+      "href": "https://github.com/cfryerdev",
+      "icon": "fab fa-github-alt"
+    },
+    {
+      "name": "twitter.com/cfryerdev",
+      "href": "https://twitter.com/cfryerdev",
+      "icon": "fab fa-twitter"
+    },
+    {
+      "name": "medium.com/@cfryerdev",
+      "href": "https://medium.com/@cfryerdev",
+      "icon": "fab fa-medium"
+    }
+  ],
+  "about": "An excited and passionate architect with experience building and leading teams to fruitful outcomes and successful deliveries. With almost 20 years of full-stack experience developing in the .net core ecosystem, I also have an extensive experience in node, java and a handful of others. My passion lies in the frontend primarily with React and Angular. I have an extensive background in managing and implementing various Agile processes.",
+  "motto": "The code I write, the products I build, and the solutions I design, will one day be deprecated and will eventually disappear; but the people I build will go on to build others... and thats what lives on. That is what's most important."
+}
